@@ -18,8 +18,3 @@ for i in range(len(grades)):
 
 for i in grades:
     print(i)
-
-73
-67
-38
-33
